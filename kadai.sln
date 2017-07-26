@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kadai", "Assembly-CSharp-firstpass.csproj", "{962A2CB5-4C3E-16B6-042B-9712162D2255}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kadai", "Assembly-CSharp.csproj", "{133418C1-7A30-FD98-189C-F09F598006E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kadai", "Assembly-CSharp-Editor-firstpass.csproj", "{6582992B-DB71-EBAA-35DA-F90C105C2771}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{962A2CB5-4C3E-16B6-042B-9712162D2255}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{962A2CB5-4C3E-16B6-042B-9712162D2255}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{962A2CB5-4C3E-16B6-042B-9712162D2255}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{962A2CB5-4C3E-16B6-042B-9712162D2255}.Release|Any CPU.Build.0 = Release|Any CPU
+		{133418C1-7A30-FD98-189C-F09F598006E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{133418C1-7A30-FD98-189C-F09F598006E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{133418C1-7A30-FD98-189C-F09F598006E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{133418C1-7A30-FD98-189C-F09F598006E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6582992B-DB71-EBAA-35DA-F90C105C2771}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6582992B-DB71-EBAA-35DA-F90C105C2771}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6582992B-DB71-EBAA-35DA-F90C105C2771}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6582992B-DB71-EBAA-35DA-F90C105C2771}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
